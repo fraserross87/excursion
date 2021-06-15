@@ -1,1 +1,25 @@
-html{}
+body{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 36px;
+}
+
+p{
+    color: mediumspringgreen;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+    color: white;
+}
